@@ -21,7 +21,7 @@ public class UserRepository {
         u1.setUmur(22);
 
         User u2 = new User();
-        u2.setNim("L0122141");
+        u2.setNim("L0122136");
         u2.setNama("Reni Uswatun Hasanah");
         u2.setUmur(22);
 
